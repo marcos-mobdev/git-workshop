@@ -1,7 +1,0 @@
-fun main(){
-
-	initializeDatabase(
-	const name = Renan Ladislau
-)
-
-}
