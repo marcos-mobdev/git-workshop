@@ -1,3 +1,7 @@
 fun main(){
-	initializeDatabase(brunoOtero)
+
+	initializeDatabase(
+	const name = Renan Ladislau
+)
+
 }
